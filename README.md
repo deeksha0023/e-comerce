@@ -1,2 +1,2 @@
 # b2c
-my first e-comerce website 
+git remote add origin https://github.com/USERNAME/b2c.git
